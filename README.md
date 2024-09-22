@@ -4,6 +4,7 @@ Migrate android project from Groovy to kotlin dsl after initializing a project i
 ## Compatibility
 
 | `@react-native-community/cli`                                      | `KotlinDslExample`          |
+| ------------------------------------------------------------------ | --------------------------- |
 | [^14.0.0](https://github.com/react-native-community/cli/tree/14.x) | ^1.0.0                      |
 
 
