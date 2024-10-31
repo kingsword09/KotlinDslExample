@@ -1,3 +1,7 @@
+plugins {
+    id("com.facebook.react.rootproject")
+}
+
 buildscript {
     repositories {
         google()
@@ -8,8 +12,6 @@ buildscript {
         classpath(libs.react.native.gradle.plugin)
     }
 }
-
-apply(plugin = "com.facebook.react.rootproject")
 
 repositories {
     google()
