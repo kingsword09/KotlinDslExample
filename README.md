@@ -3,9 +3,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 Migrate android project from Groovy to kotlin dsl after initializing a project in @react-native-community/cli.
 ## Compatibility
 
-| `@react-native-community/cli`                                      | `KotlinDslExample`          |
-| ------------------------------------------------------------------ | --------------------------- |
-| [^14.0.0](https://github.com/react-native-community/cli/tree/14.x) | ^1.0.0                      |
+| `@react-native-community/cli`                                      | `KotlinDslExample`          |`React Native`          |
+| ------------------------------------------------------------------ | --------------------------- |--------------------------- |
+| [^14.0.0](https://github.com/react-native-community/cli/tree/14.x) | ^1.0.0                      |^0.75.3                      |
+| [^15.0.0](https://github.com/react-native-community/cli/tree/15.x) | ^2.0.0                      |^0.76.1                      |
 
 
 # Getting Started
