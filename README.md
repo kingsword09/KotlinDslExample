@@ -9,6 +9,6 @@ Migrate android project from Groovy to kotlin dsl, iOS project from Objective-C 
 
 | `@react-native-community/cli`                                      | `KotlinDslExample`          |`React Native`          |
 | ------------------------------------------------------------------ | --------------------------- |--------------------------- |
-| [^14.0.0](https://github.com/react-native-community/cli/tree/14.x) | ^1.0.0                      |^0.75.3                      |
 | [^15.0.0](https://github.com/react-native-community/cli/tree/15.x) | ^2.0.0                      |^0.76.1                      |
+| [^14.0.0](https://github.com/react-native-community/cli/tree/14.x) | ^1.0.0                      |^0.75.3                      |
 
